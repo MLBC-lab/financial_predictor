@@ -1,0 +1,50 @@
+mean_trt_1, Dur: 167 s, (7973, 70), TrMSE: 1.97, TsMSE: 18.2
+Pipeline(steps=[('clf', RandomForestRegressor())])
+Scsp7_str1, Dur: 111 s, (7326, 70), TrMSE: 1.82, TsMSE: 6.5
+Pipeline(steps=[('clf', RandomForestRegressor())])
+social_str_numYadj51, Dur: 105 s, (7326, 70), TrMSE: 0.51, TsMSE: 1.78
+Pipeline(steps=[('clf', RandomForestRegressor())])
+ros_t3_1, Dur: 175 s, (7919, 70), TrMSE: 0.86, TsMSE: 0.1
+Pipeline(steps=[('clf', SVR())])
+Scsp6_str_nohuman1, Dur: 109 s, (7326, 70), TrMSE: 1.48, TsMSE: 5.73
+Pipeline(steps=[('clf', RandomForestRegressor())])
+social_con_numYadj51, Dur: 101 s, (7328, 70), TrMSE: 0.19, TsMSE: 0.79
+Pipeline(steps=[('clf', RandomForestRegressor())])
+mva_t3_1, Dur: 172 s, (7538, 70), TrMSE: 28855286.03, TsMSE: 149327702.2
+Pipeline(steps=[('clf', RandomForestRegressor(n_estimators=20))])
+Scsp7_con1, Dur: 117 s, (7328, 70), TrMSE: 1.9, TsMSE: 6.9
+Pipeline(steps=[('clf', RandomForestRegressor())])
+csp6_str_numYadj1, Dur: 105 s, (7326, 70), TrMSE: 0.56, TsMSE: 1.92
+Pipeline(steps=[('clf', RandomForestRegressor())])
+csp7_str1, Dur: 110 s, (6793, 70), TrMSE: 0.58, TsMSE: 2.88
+Pipeline(steps=[('clf', RandomForestRegressor())])
+csp6_con1, Dur: 86 s, (6793, 70), TrMSE: 0.27, TsMSE: 1.06
+Pipeline(steps=[('clf', RandomForestRegressor())])
+Scsp6_con_nohuman1, Dur: 114 s, (7328, 70), TrMSE: 1.63, TsMSE: 5.67
+Pipeline(steps=[('clf', RandomForestRegressor())])
+csp6_con_numYadj1, Dur: 104 s, (7328, 70), TrMSE: 0.25, TsMSE: 1.02
+Pipeline(steps=[('clf', RandomForestRegressor())])
+csp7_con1, Dur: 105 s, (6793, 70), TrMSE: 0.36, TsMSE: 1.31
+Pipeline(steps=[('clf', RandomForestRegressor())])
+csp6_str1, Dur: 91 s, (6793, 70), TrMSE: 0.56, TsMSE: 1.83
+Pipeline(steps=[('clf', RandomForestRegressor())])
+Scsp6_str1, Dur: 115 s, (7326, 70), TrMSE: 1.5, TsMSE: 6.3
+Pipeline(steps=[('clf', RandomForestRegressor())])
+social_str_num_Sicadj51, Dur: 108 s, (7326, 70), TrMSE: 0.55, TsMSE: 2.36
+Pipeline(steps=[('clf', RandomForestRegressor())])
+roe_t3_1, Dur: 206 s, (7919, 70), TrMSE: 9.14, TsMSE: 2.08
+Pipeline(steps=[('clf', SVR())])
+Scsp6_con1, Dur: 111 s, (7328, 70), TrMSE: 1.6, TsMSE: 7.52
+Pipeline(steps=[('clf', RandomForestRegressor(n_estimators=20))])
+social_con_num_Sicadj51, Dur: 106 s, (7328, 70), TrMSE: 0.19, TsMSE: 0.8
+Pipeline(steps=[('clf', RandomForestRegressor())])
+roa_t3_1, Dur: 151 s, (7919, 70), TrMSE: 0.0, TsMSE: 0.01
+Pipeline(steps=[('clf', RandomForestRegressor())])
+csp6_con_nohuman1, Dur: 93 s, (7328, 70), TrMSE: 0.32, TsMSE: 1.51
+Pipeline(steps=[('clf', RandomForestRegressor())])
+Ssocial_str51, Dur: 115 s, (7326, 70), TrMSE: 1.15, TsMSE: 4.92
+Pipeline(steps=[('clf', RandomForestRegressor())])
+csp6_str_num_Sicadj1, Dur: 104 s, (7326, 70), TrMSE: 0.61, TsMSE: 2.82
+Pipeline(steps=[('clf', RandomForestRegressor())])
+Saving the results as ../../output/cross_validate_result_scale_no_pca_no.pckl ...
+Finished in 471 seconds.

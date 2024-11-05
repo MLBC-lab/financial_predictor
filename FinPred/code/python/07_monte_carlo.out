@@ -1,0 +1,141 @@
+tobin_q_nomissing1
+tr_mse: 0.052, ts_mse: 0.203
+Train: pred_corr: 0.9788951937363151, rand_corr: 0.01113096678764835
+Test: pred_corr: 0.8807540761662476, rand_corr: 0.027598733034558617
+--------------------
+roa_t3_1
+tr_mse: 0.002, ts_mse: 0.005
+Train: pred_corr: 0.9448349922282702, rand_corr: 0.017048548483301947
+Test: pred_corr: 0.6363142906088759, rand_corr: 0.05505480503201913
+--------------------
+roe_t3_1
+tr_mse: 8.767, ts_mse: 3.576
+Train: pred_corr: 0.022750151601401057, rand_corr: 0.012285425468529978
+Test: pred_corr: 0.024061969136603415, rand_corr: 0.06132958784186857
+--------------------
+ros_t3_1
+tr_mse: 0.170, ts_mse: 2.789
+Train: pred_corr: 0.1370286178866697, rand_corr: 0.01935883627668383
+Test: pred_corr: 0.023814980923633263, rand_corr: 0.044787168569882026
+--------------------
+mva_t3_1
+tr_mse: 21376446.571, ts_mse: 311506842.306
+Train: pred_corr: 0.9866140994788285, rand_corr: 0.018515723839537916
+Test: pred_corr: 0.9112443320285087, rand_corr: 0.02632575471954275
+--------------------
+mean_trt_1
+tr_mse: 2.044, ts_mse: 7.664
+Train: pred_corr: 0.9276383673265146, rand_corr: 0.012502144264917622
+Test: pred_corr: 0.5276666494523414, rand_corr: 0.050117887292300205
+--------------------
+csp7_str1
+tr_mse: 0.586, ts_mse: 1.790
+Train: pred_corr: 0.9778161179887772, rand_corr: 0.05249713098793264
+Test: pred_corr: 0.8897900073331657, rand_corr: 0.052319540622627066
+--------------------
+csp7_con1
+tr_mse: 0.354, ts_mse: 1.271
+Train: pred_corr: 0.9740750470391482, rand_corr: 0.0038591437737505833
+Test: pred_corr: 0.8540359380015796, rand_corr: 0.026282163342400702
+--------------------
+csp6_str1
+tr_mse: 0.503, ts_mse: 1.777
+Train: pred_corr: 0.9760530917400362, rand_corr: 0.009254491977863995
+Test: pred_corr: 0.9246595366350636, rand_corr: 0.025861235442596917
+--------------------
+csp6_con1
+tr_mse: 0.249, ts_mse: 0.974
+Train: pred_corr: 0.9754451476280624, rand_corr: 0.02276160045642161
+Test: pred_corr: 0.8847884951678786, rand_corr: 0.022656742888592055
+--------------------
+csp6_str_nohuman1
+tr_mse: 0.535, ts_mse: 2.114
+Train: pred_corr: 0.9746341780271266, rand_corr: 0.010801143203499374
+Test: pred_corr: 0.9249269188292033, rand_corr: 0.014546216718008716
+--------------------
+csp6_con_nohuman1
+tr_mse: 0.305, ts_mse: 1.237
+Train: pred_corr: 0.9730224938565025, rand_corr: -0.0044000768783008844
+Test: pred_corr: 0.8900503970081725, rand_corr: 0.06734483454904597
+--------------------
+Scsp7_str1
+tr_mse: 1.718, ts_mse: 6.724
+Train: pred_corr: 0.9765477368070966, rand_corr: 0.01446844972798513
+Test: pred_corr: 0.9145539793193214, rand_corr: 0.02584005231083944
+--------------------
+Scsp7_con1
+tr_mse: 1.939, ts_mse: 6.633
+Train: pred_corr: 0.9698691293643747, rand_corr: 0.019343521687971776
+Test: pred_corr: 0.8377077761975106, rand_corr: 0.03352442451206204
+--------------------
+Scsp6_str_nohuman1
+tr_mse: 1.436, ts_mse: 6.011
+Train: pred_corr: 0.9767295051926974, rand_corr: 0.010978773925284896
+Test: pred_corr: 0.9140366998812797, rand_corr: 0.051808485116358875
+--------------------
+Scsp6_con_nohuman1
+tr_mse: 1.522, ts_mse: 7.433
+Train: pred_corr: 0.9640401284885908, rand_corr: 0.008107365220689467
+Test: pred_corr: 0.850382165948635, rand_corr: 0.03532758930635896
+--------------------
+Scsp6_str1
+tr_mse: 1.357, ts_mse: 5.357
+Train: pred_corr: 0.9792586263404142, rand_corr: 0.012582450453308651
+Test: pred_corr: 0.8775449499702537, rand_corr: 0.02357965400626694
+--------------------
+Scsp6_con1
+tr_mse: 1.524, ts_mse: 5.131
+Train: pred_corr: 0.9709727816011519, rand_corr: 0.025442691870649684
+Test: pred_corr: 0.8563171440757198, rand_corr: 0.03826775044522122
+--------------------
+Ssocial_str51
+tr_mse: 1.052, ts_mse: 5.227
+Train: pred_corr: 0.9773374463196067, rand_corr: 0.014888430578398016
+Test: pred_corr: 0.8806720121087983, rand_corr: 0.04641352523334157
+--------------------
+Ssocial_con51
+tr_mse: 1.186, ts_mse: 5.461
+Train: pred_corr: 0.9670391239997064, rand_corr: 0.021269668253958787
+Test: pred_corr: 0.8628032756914522, rand_corr: 0.03388656866321752
+--------------------
+social_str_numYadj51
+tr_mse: 0.460, ts_mse: 1.584
+Train: pred_corr: 0.9751947014130276, rand_corr: 0.007930280984533584
+Test: pred_corr: 0.9108518445007905, rand_corr: 0.016318819911994614
+--------------------
+social_con_numYadj51
+tr_mse: 0.186, ts_mse: 0.717
+Train: pred_corr: 0.9708245621352167, rand_corr: 0.01816611305360742
+Test: pred_corr: 0.8625366147104061, rand_corr: 0.02775222613529547
+--------------------
+csp6_str_numYadj1
+tr_mse: 0.544, ts_mse: 1.713
+Train: pred_corr: 0.9739385134973917, rand_corr: 0.024295344308967685
+Test: pred_corr: 0.9048500494117876, rand_corr: 0.027351756000925504
+--------------------
+csp6_con_numYadj1
+tr_mse: 0.239, ts_mse: 0.881
+Train: pred_corr: 0.9756968869887123, rand_corr: 0.04526300623813088
+Test: pred_corr: 0.8469062700112392, rand_corr: 0.013462398124551722
+--------------------
+social_str_num_Sicadj51
+tr_mse: 0.411, ts_mse: 1.324
+Train: pred_corr: 0.9704933864138892, rand_corr: -0.0049711253007854814
+Test: pred_corr: 0.9052116051518795, rand_corr: 0.0067567816404145095
+--------------------
+social_con_num_Sicadj51
+tr_mse: 0.160, ts_mse: 0.493
+Train: pred_corr: 0.9561919236685049, rand_corr: 0.02222591375713598
+Test: pred_corr: 0.8141646511529388, rand_corr: 0.04600634093160796
+--------------------
+csp6_str_num_Sicadj1
+tr_mse: 0.426, ts_mse: 1.553
+Train: pred_corr: 0.9730663913240616, rand_corr: 0.01220581053322415
+Test: pred_corr: 0.8896223718823953, rand_corr: 0.038409428285141226
+--------------------
+csp6_con_num_Sicadj1
+tr_mse: 0.205, ts_mse: 0.817
+Train: pred_corr: 0.9621308289033732, rand_corr: 0.023008099156587754
+Test: pred_corr: 0.8611919260940007, rand_corr: 0.0072251037438861646
+--------------------
+Finished in 12 seconds.

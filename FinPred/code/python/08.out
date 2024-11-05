@@ -1,0 +1,365 @@
+tobin_q_nomissing1
+tr_mse: 0.059, ts_mse: 0.236
+top 10 important features (descending):
+['tobin_q_nomissing', 'mean_trt', 'Scom_str_num', 'Scom_con_num', 'scarcity', 'roa_t3', 'ros_t3', 'Senv_con_num', 'roe_t3', 'mva_t3']
+Environment level: {'dynamism': 21, 'concent4': 10, 'scarcity': 4}
+Financial performance: {'slack': 28, 'leverage2': 22, 'roa_t3': 5, 'roe_t3': 8, 'ros_t3': 6, 'mva_t3': 9, 'mean_trt': 1, 'tobin_q_nomissing': 0, 'f_decline': 49, 'at': 20, 'sale': 12}
+Corporarte strategy: {'dt': 29, 'aqc_assets': 32, 'value_of_transaction_tot': 53, 'count_tot_new': 55, 'valueDivided_at': 52, 'valueDivided_sale': 50, 'dr': 14, 'du': 39, 'spinoff_tot': 67}
+Social performance: {'Senv_con_num': 7, 'Scom_con_num': 3, 'Shum_con_num': 16, 'Semp_con_num': 40, 'Sdiv_con_num': 27, 'Spro_con_num': 19, 'Scgov_con_num': 30, 'Senv_str_num': 38, 'Scom_str_num': 2, 'Shum_str_num': 24, 'Semp_str_num': 25, 'Sdiv_str_num': 11, 'Spro_str_num': 34, 'Scgov_str_num': 33, 'Scsp7_con': 42, 'Scsp7_str': 35, 'Scsp6_con': 41, 'Scsp6_str': 36, 'Ssocial_str5': 37, 'Ssocial_con5': 44}
+other frim level: {'sic': 23}
+Governance: {'instown_perc': 15, 'bd_ind': 31, 'nActivism_concerns': 68, 'nActivism_control': 66, 'nActivism_discussion': 65, 'nActivism_dispute': 64, 'nActivism': 61, 'nActivism_Exdiscussion': 63, 'envtprop2': 56, 'socprop2': 58, 'sriprop2': 59, 'all_activism': 57, 'both_activism': 69, 'board_female': 46, 'sum_active': 60}
+CEO: {'Wshrown_pct': 17, 'duality': 48, 'suc_out': 62, 'suc_est': 54, 'CEO_gender': 43, 'exe_exp10': 45, 'ceo_exp10': 47, 'QA_promo_count_avg2': 13, 'QA_preve_count_avg2': 26, 'CEOtenure_position': 18, 'suc_in': 51}
+{'Financial performance': 0.17859714730914747, 'Environment level': 0.007938756969847678, 'Social performance': 0.004690722141918061, 'other frim level': 0.0041967578685204844, 'CEO': 0.0022624031968530816, 'Corporarte strategy': 0.0016999479139501495, 'Governance': 0.0006787847841080721}
+{'Financial performance': 1.890191932561768, 'Social performance': 0.018228305438009053, 'Environment level': 0.013264441158050935, 'CEO': 0.005740008385444598, 'Corporarte strategy': 0.005381918028317936, 'Governance': 0.005219988908600132, 'other frim level': 0.0041967578685204844}
+roa_t3_1
+tr_mse: 0.002, ts_mse: 0.008
+top 10 important features (descending):
+['roa_t3', 'tobin_q_nomissing', 'ros_t3', 'mva_t3', 'sale', 'mean_trt', 'nActivism_dispute', 'roe_t3', 'scarcity', 'aqc_assets']
+Environment level: {'dynamism': 13, 'concent4': 10, 'scarcity': 8}
+Financial performance: {'slack': 21, 'leverage2': 18, 'roa_t3': 0, 'roe_t3': 7, 'ros_t3': 2, 'mva_t3': 3, 'mean_trt': 5, 'tobin_q_nomissing': 1, 'f_decline': 61, 'at': 11, 'sale': 4}
+Corporarte strategy: {'dt': 26, 'aqc_assets': 9, 'value_of_transaction_tot': 57, 'count_tot_new': 52, 'valueDivided_at': 50, 'valueDivided_sale': 44, 'dr': 12, 'du': 30, 'spinoff_tot': 67}
+Social performance: {'Senv_con_num': 40, 'Scom_con_num': 31, 'Shum_con_num': 15, 'Semp_con_num': 39, 'Sdiv_con_num': 19, 'Spro_con_num': 38, 'Scgov_con_num': 34, 'Senv_str_num': 27, 'Scom_str_num': 33, 'Shum_str_num': 28, 'Semp_str_num': 35, 'Sdiv_str_num': 32, 'Spro_str_num': 29, 'Scgov_str_num': 17, 'Scsp7_con': 36, 'Scsp7_str': 45, 'Scsp6_con': 25, 'Scsp6_str': 42, 'Ssocial_str5': 46, 'Ssocial_con5': 41}
+other frim level: {'sic': 14}
+Governance: {'instown_perc': 16, 'bd_ind': 22, 'nActivism_concerns': 53, 'nActivism_control': 59, 'nActivism_discussion': 58, 'nActivism_dispute': 6, 'nActivism': 51, 'nActivism_Exdiscussion': 37, 'envtprop2': 60, 'socprop2': 69, 'sriprop2': 65, 'all_activism': 62, 'both_activism': 68, 'board_female': 47, 'sum_active': 49}
+CEO: {'Wshrown_pct': 23, 'duality': 43, 'suc_out': 64, 'suc_est': 63, 'CEO_gender': 66, 'exe_exp10': 54, 'ceo_exp10': 55, 'QA_promo_count_avg2': 24, 'QA_preve_count_avg2': 48, 'CEOtenure_position': 20, 'suc_in': 56}
+{'Financial performance': 0.0012037184597190928, 'Environment level': 0.00019508314199320298, 'other frim level': 0.00017231703096347038, 'Corporarte strategy': 6.0561775639073035e-05, 'Social performance': 5.03187286144368e-05, 'Governance': 4.022541237925408e-05, 'CEO': 2.7067606356320494e-05}
+{'Financial performance': 0.005330863020620942, 'Governance': 0.0002597227029584255, 'Environment level': 0.0002148757419451461, 'Corporarte strategy': 0.00020574981666915716, 'other frim level': 0.00017231703096347038, 'Social performance': 0.00016296368671518333, 'CEO': 8.560776304671413e-05}
+roe_t3_1
+tr_mse: 9.136, ts_mse: 2.083
+top 10 important features (descending):
+['mva_t3', 'sale', 'at', 'roe_t3', 'QA_promo_count_avg2', 'Scsp7_str', 'ceo_exp10', 'exe_exp10', 'Scsp6_str', 'Ssocial_con5']
+Environment level: {'dynamism': 49, 'concent4': 27, 'scarcity': 35}
+Financial performance: {'slack': 26, 'leverage2': 42, 'roa_t3': 24, 'roe_t3': 3, 'ros_t3': 14, 'mva_t3': 0, 'mean_trt': 67, 'tobin_q_nomissing': 22, 'f_decline': 41, 'at': 2, 'sale': 1}
+Corporarte strategy: {'dt': 63, 'aqc_assets': 39, 'value_of_transaction_tot': 68, 'count_tot_new': 23, 'valueDivided_at': 47, 'valueDivided_sale': 48, 'dr': 62, 'du': 38, 'spinoff_tot': 43}
+Social performance: {'Senv_con_num': 20, 'Scom_con_num': 12, 'Shum_con_num': 55, 'Semp_con_num': 56, 'Sdiv_con_num': 65, 'Spro_con_num': 33, 'Scgov_con_num': 17, 'Senv_str_num': 13, 'Scom_str_num': 58, 'Shum_str_num': 28, 'Semp_str_num': 64, 'Sdiv_str_num': 21, 'Spro_str_num': 31, 'Scgov_str_num': 19, 'Scsp7_con': 15, 'Scsp7_str': 5, 'Scsp6_con': 11, 'Scsp6_str': 8, 'Ssocial_str5': 10, 'Ssocial_con5': 9}
+other frim level: {'sic': 69}
+Governance: {'instown_perc': 40, 'bd_ind': 34, 'nActivism_concerns': 53, 'nActivism_control': 37, 'nActivism_discussion': 30, 'nActivism_dispute': 54, 'nActivism': 44, 'nActivism_Exdiscussion': 59, 'envtprop2': 36, 'socprop2': 29, 'sriprop2': 25, 'all_activism': 32, 'both_activism': 45, 'board_female': 18, 'sum_active': 50}
+CEO: {'Wshrown_pct': 46, 'duality': 61, 'suc_out': 52, 'suc_est': 60, 'CEO_gender': 51, 'exe_exp10': 7, 'ceo_exp10': 6, 'QA_promo_count_avg2': 4, 'QA_preve_count_avg2': 16, 'CEOtenure_position': 66, 'suc_in': 57}
+{'Financial performance': 0.0024222125880958793, 'CEO': 2.450538584174535e-09, 'Social performance': 1.384277217297836e-09, 'Governance': 5.0059038395981285e-11, 'Environment level': 3.189200015185634e-11, 'Corporarte strategy': -1.239606448303713e-06, 'other frim level': -5.8197086442390855e-05}
+{'Financial performance': 0.018182115906407503, 'CEO': 1.3906000084773495e-08, 'Social performance': 1.0139628514593824e-08, 'Governance': 5.859215335135559e-10, 'Corporarte strategy': 1.210118227845669e-10, 'Environment level': 9.107790077678147e-11, 'other frim level': -5.8197086442390855e-05}
+ros_t3_1
+tr_mse: 0.865, ts_mse: 0.101
+top 10 important features (descending):
+['mva_t3', 'at', 'sale', 'sic', 'mean_trt', 'ros_t3', 'ceo_exp10', 'exe_exp10', 'QA_promo_count_avg2', 'CEOtenure_position']
+Environment level: {'dynamism': 46, 'concent4': 23, 'scarcity': 47}
+Financial performance: {'slack': 21, 'leverage2': 43, 'roa_t3': 15, 'roe_t3': 10, 'ros_t3': 5, 'mva_t3': 0, 'mean_trt': 4, 'tobin_q_nomissing': 11, 'f_decline': 29, 'at': 1, 'sale': 2}
+Corporarte strategy: {'dt': 58, 'aqc_assets': 42, 'value_of_transaction_tot': 69, 'count_tot_new': 56, 'valueDivided_at': 41, 'valueDivided_sale': 33, 'dr': 44, 'du': 53, 'spinoff_tot': 52}
+Social performance: {'Senv_con_num': 16, 'Scom_con_num': 20, 'Shum_con_num': 63, 'Semp_con_num': 17, 'Sdiv_con_num': 39, 'Spro_con_num': 64, 'Scgov_con_num': 27, 'Senv_str_num': 19, 'Scom_str_num': 31, 'Shum_str_num': 24, 'Semp_str_num': 12, 'Sdiv_str_num': 61, 'Spro_str_num': 57, 'Scgov_str_num': 60, 'Scsp7_con': 68, 'Scsp7_str': 65, 'Scsp6_con': 67, 'Scsp6_str': 62, 'Ssocial_str5': 13, 'Ssocial_con5': 66}
+other frim level: {'sic': 3}
+Governance: {'instown_perc': 54, 'bd_ind': 34, 'nActivism_concerns': 35, 'nActivism_control': 40, 'nActivism_discussion': 36, 'nActivism_dispute': 51, 'nActivism': 22, 'nActivism_Exdiscussion': 28, 'envtprop2': 32, 'socprop2': 37, 'sriprop2': 25, 'all_activism': 55, 'both_activism': 48, 'board_female': 59, 'sum_active': 45}
+CEO: {'Wshrown_pct': 49, 'duality': 18, 'suc_out': 38, 'suc_est': 26, 'CEO_gender': 50, 'exe_exp10': 7, 'ceo_exp10': 6, 'QA_promo_count_avg2': 8, 'QA_preve_count_avg2': 14, 'CEOtenure_position': 9, 'suc_in': 30}
+{'Financial performance': 0.0019014622182071785, 'other frim level': 3.601793745466875e-05, 'CEO': 6.94871828763801e-10, 'Environment level': 5.414150609321193e-12, 'Governance': -5.5339436736782903e-14, 'Social performance': -3.880499721553577e-10, 'Corporarte strategy': -2.797493208760314e-06}
+{'Financial performance': 0.011086391368749204, 'other frim level': 3.601793745466875e-05, 'CEO': 2.19240625654038e-09, 'Social performance': 4.280785947941013e-10, 'Governance': 1.8765766718331633e-11, 'Environment level': 1.608457811386188e-11, 'Corporarte strategy': 3.1234126396384455e-12}
+mva_t3_1
+tr_mse: 28855286.027, ts_mse: 149327702.200
+top 10 important features (descending):
+['mva_t3', 'at', 'slack', 'instown_perc', 'leverage2', 'tobin_q_nomissing', 'aqc_assets', 'Semp_con_num', 'Shum_con_num', 'ceo_exp10']
+Environment level: {'dynamism': 29, 'concent4': 19, 'scarcity': 21}
+Financial performance: {'slack': 2, 'leverage2': 4, 'roa_t3': 20, 'roe_t3': 35, 'ros_t3': 13, 'mva_t3': 0, 'mean_trt': 12, 'tobin_q_nomissing': 5, 'f_decline': 45, 'at': 1, 'sale': 36}
+Corporarte strategy: {'dt': 68, 'aqc_assets': 6, 'value_of_transaction_tot': 46, 'count_tot_new': 50, 'valueDivided_at': 64, 'valueDivided_sale': 69, 'dr': 33, 'du': 43, 'spinoff_tot': 30}
+Social performance: {'Senv_con_num': 23, 'Scom_con_num': 16, 'Shum_con_num': 8, 'Semp_con_num': 7, 'Sdiv_con_num': 27, 'Spro_con_num': 25, 'Scgov_con_num': 17, 'Senv_str_num': 41, 'Scom_str_num': 18, 'Shum_str_num': 14, 'Semp_str_num': 34, 'Sdiv_str_num': 10, 'Spro_str_num': 24, 'Scgov_str_num': 26, 'Scsp7_con': 40, 'Scsp7_str': 47, 'Scsp6_con': 22, 'Scsp6_str': 67, 'Ssocial_str5': 37, 'Ssocial_con5': 44}
+other frim level: {'sic': 32}
+Governance: {'instown_perc': 3, 'bd_ind': 15, 'nActivism_concerns': 56, 'nActivism_control': 61, 'nActivism_discussion': 59, 'nActivism_dispute': 63, 'nActivism': 58, 'nActivism_Exdiscussion': 62, 'envtprop2': 51, 'socprop2': 49, 'sriprop2': 55, 'all_activism': 66, 'both_activism': 53, 'board_female': 42, 'sum_active': 57}
+CEO: {'Wshrown_pct': 31, 'duality': 48, 'suc_out': 60, 'suc_est': 65, 'CEO_gender': 52, 'exe_exp10': 39, 'ceo_exp10': 9, 'QA_promo_count_avg2': 38, 'QA_preve_count_avg2': 28, 'CEOtenure_position': 11, 'suc_in': 54}
+{'Financial performance': 123886330.53733158, 'Environment level': 1297750.5964996798, 'Social performance': 1218985.5360092823, 'CEO': 662328.9086477547, 'other frim level': 622894.0189745784, 'Corporarte strategy': 476077.30982684094, 'Governance': 472521.06136896193}
+{'Financial performance': 1117348215.7002864, 'Governance': 4779602.239659205, 'Corporarte strategy': 3480311.8143545464, 'Social performance': 2999721.544675532, 'CEO': 2595845.521455267, 'Environment level': 1579203.2569844709, 'other frim level': 622894.0189745784}
+mean_trt_1
+tr_mse: 1.970, ts_mse: 18.198
+top 10 important features (descending):
+['mean_trt', 'Scom_str_num', 'Scom_con_num', 'leverage2', 'tobin_q_nomissing', 'Scgov_str_num', 'Senv_con_num', 'Shum_str_num', 'roa_t3', 'Spro_str_num']
+Environment level: {'dynamism': 16, 'concent4': 27, 'scarcity': 10}
+Financial performance: {'slack': 21, 'leverage2': 3, 'roa_t3': 8, 'roe_t3': 14, 'ros_t3': 13, 'mva_t3': 23, 'mean_trt': 0, 'tobin_q_nomissing': 4, 'f_decline': 52, 'at': 22, 'sale': 17}
+Corporarte strategy: {'dt': 25, 'aqc_assets': 31, 'value_of_transaction_tot': 48, 'count_tot_new': 57, 'valueDivided_at': 50, 'valueDivided_sale': 47, 'dr': 20, 'du': 35, 'spinoff_tot': 67}
+Social performance: {'Senv_con_num': 6, 'Scom_con_num': 2, 'Shum_con_num': 11, 'Semp_con_num': 36, 'Sdiv_con_num': 32, 'Spro_con_num': 19, 'Scgov_con_num': 30, 'Senv_str_num': 15, 'Scom_str_num': 1, 'Shum_str_num': 7, 'Semp_str_num': 34, 'Sdiv_str_num': 37, 'Spro_str_num': 9, 'Scgov_str_num': 5, 'Scsp7_con': 39, 'Scsp7_str': 40, 'Scsp6_con': 42, 'Scsp6_str': 45, 'Ssocial_str5': 41, 'Ssocial_con5': 38}
+other frim level: {'sic': 18}
+Governance: {'instown_perc': 24, 'bd_ind': 33, 'nActivism_concerns': 68, 'nActivism_control': 53, 'nActivism_discussion': 65, 'nActivism_dispute': 69, 'nActivism': 54, 'nActivism_Exdiscussion': 55, 'envtprop2': 59, 'socprop2': 66, 'sriprop2': 58, 'all_activism': 56, 'both_activism': 63, 'board_female': 43, 'sum_active': 51}
+CEO: {'Wshrown_pct': 26, 'duality': 44, 'suc_out': 60, 'suc_est': 61, 'CEO_gender': 62, 'exe_exp10': 46, 'ceo_exp10': 49, 'QA_promo_count_avg2': 12, 'QA_preve_count_avg2': 29, 'CEOtenure_position': 28, 'suc_in': 64}
+{'Financial performance': 0.48855567550373463, 'Social performance': 0.2820080882824047, 'Environment level': 0.2646339093949586, 'other frim level': 0.2423249127132392, 'CEO': 0.07934320094300552, 'Corporarte strategy': 0.07402690834279724, 'Governance': 0.02733955287476123}
+{'Financial performance': 1.8551201624730447, 'Social performance': 0.9606399928681965, 'Environment level': 0.3801667534272729, 'CEO': 0.3069454146479382, 'other frim level': 0.2423249127132392, 'Corporarte strategy': 0.22825503761767277, 'Governance': 0.21610697083976654}
+csp7_str1
+tr_mse: 0.583, ts_mse: 2.882
+top 10 important features (descending):
+['Ssocial_str5', 'Scsp7_str', 'Sdiv_str_num', 'Scsp6_str', 'sale', 'slack', 'Scgov_str_num', 'Senv_str_num', 'Shum_con_num', 'QA_promo_count_avg2']
+Environment level: {'dynamism': 22, 'concent4': 20, 'scarcity': 21}
+Financial performance: {'slack': 5, 'leverage2': 37, 'roa_t3': 38, 'roe_t3': 33, 'ros_t3': 27, 'mva_t3': 13, 'mean_trt': 17, 'tobin_q_nomissing': 30, 'f_decline': 55, 'at': 12, 'sale': 4}
+Corporarte strategy: {'dt': 23, 'aqc_assets': 43, 'value_of_transaction_tot': 47, 'count_tot_new': 53, 'valueDivided_at': 49, 'valueDivided_sale': 48, 'dr': 36, 'du': 32, 'spinoff_tot': 63}
+Social performance: {'Senv_con_num': 34, 'Scom_con_num': 40, 'Shum_con_num': 8, 'Semp_con_num': 24, 'Sdiv_con_num': 44, 'Spro_con_num': 25, 'Scgov_con_num': 31, 'Senv_str_num': 7, 'Scom_str_num': 18, 'Shum_str_num': 14, 'Semp_str_num': 15, 'Sdiv_str_num': 2, 'Spro_str_num': 26, 'Scgov_str_num': 6, 'Scsp7_con': 39, 'Scsp7_str': 1, 'Scsp6_con': 42, 'Scsp6_str': 3, 'Ssocial_str5': 0, 'Ssocial_con5': 46}
+other frim level: {'sic': 29}
+Governance: {'instown_perc': 16, 'bd_ind': 28, 'nActivism_concerns': 68, 'nActivism_control': 59, 'nActivism_discussion': 62, 'nActivism_dispute': 69, 'nActivism': 64, 'nActivism_Exdiscussion': 65, 'envtprop2': 50, 'socprop2': 52, 'sriprop2': 54, 'all_activism': 56, 'both_activism': 67, 'board_female': 11, 'sum_active': 61}
+CEO: {'Wshrown_pct': 10, 'duality': 51, 'suc_out': 66, 'suc_est': 57, 'CEO_gender': 60, 'exe_exp10': 41, 'ceo_exp10': 45, 'QA_promo_count_avg2': 9, 'QA_preve_count_avg2': 19, 'CEOtenure_position': 35, 'suc_in': 58}
+{'Social performance': 0.5265288879729134, 'Financial performance': 0.06935152844505715, 'Environment level': 0.046393321556504274, 'other frim level': 0.031363568379213946, 'CEO': 0.02926711909318425, 'Corporarte strategy': 0.014277620426255855, 'Governance': 0.013301619313999783}
+{'Social performance': 6.573311482408362, 'Financial performance': 0.2516824525246579, 'CEO': 0.10339220079493602, 'Governance': 0.09490727219196238, 'Environment level': 0.05048529957309, 'Corporarte strategy': 0.03800618577947894, 'other frim level': 0.031363568379213946}
+csp7_con1
+tr_mse: 0.358, ts_mse: 1.306
+top 10 important features (descending):
+['Scsp7_con', 'Shum_con_num', 'Scom_con_num', 'Shum_str_num', 'dr', 'sale', 'Scsp6_con', 'Senv_con_num', 'QA_promo_count_avg2', 'scarcity']
+Environment level: {'dynamism': 23, 'concent4': 20, 'scarcity': 9}
+Financial performance: {'slack': 17, 'leverage2': 26, 'roa_t3': 36, 'roe_t3': 33, 'ros_t3': 31, 'mva_t3': 24, 'mean_trt': 11, 'tobin_q_nomissing': 32, 'f_decline': 54, 'at': 10, 'sale': 5}
+Corporarte strategy: {'dt': 19, 'aqc_assets': 27, 'value_of_transaction_tot': 46, 'count_tot_new': 48, 'valueDivided_at': 50, 'valueDivided_sale': 51, 'dr': 4, 'du': 12, 'spinoff_tot': 61}
+Social performance: {'Senv_con_num': 7, 'Scom_con_num': 2, 'Shum_con_num': 1, 'Semp_con_num': 18, 'Sdiv_con_num': 29, 'Spro_con_num': 15, 'Scgov_con_num': 13, 'Senv_str_num': 35, 'Scom_str_num': 34, 'Shum_str_num': 3, 'Semp_str_num': 37, 'Sdiv_str_num': 38, 'Spro_str_num': 39, 'Scgov_str_num': 41, 'Scsp7_con': 0, 'Scsp7_str': 42, 'Scsp6_con': 6, 'Scsp6_str': 43, 'Ssocial_str5': 40, 'Ssocial_con5': 22}
+other frim level: {'sic': 16}
+Governance: {'instown_perc': 14, 'bd_ind': 30, 'nActivism_concerns': 66, 'nActivism_control': 65, 'nActivism_discussion': 67, 'nActivism_dispute': 68, 'nActivism': 62, 'nActivism_Exdiscussion': 60, 'envtprop2': 57, 'socprop2': 49, 'sriprop2': 53, 'all_activism': 55, 'both_activism': 69, 'board_female': 44, 'sum_active': 59}
+CEO: {'Wshrown_pct': 21, 'duality': 52, 'suc_out': 63, 'suc_est': 56, 'CEO_gender': 64, 'exe_exp10': 45, 'ceo_exp10': 47, 'QA_promo_count_avg2': 8, 'QA_preve_count_avg2': 25, 'CEOtenure_position': 28, 'suc_in': 58}
+{'Social performance': 0.4311322724863831, 'Financial performance': 0.03924267789034175, 'Corporarte strategy': 0.034872741220537566, 'other frim level': 0.03235434123362289, 'Environment level': 0.03190709357672123, 'CEO': 0.013281391271763808, 'Governance': 0.004627960155061673}
+{'Social performance': 7.313784319152068, 'Corporarte strategy': 0.20694414544383935, 'Financial performance': 0.20447105549830713, 'CEO': 0.06528076549389086, 'Environment level': 0.04855337847784491, 'Governance': 0.035445031650228276, 'other frim level': 0.03235434123362289}
+csp6_str1
+tr_mse: 0.561, ts_mse: 1.831
+top 10 important features (descending):
+['Ssocial_str5', 'Sdiv_str_num', 'Scsp7_str', 'Scsp6_str', 'sale', 'Shum_con_num', 'QA_promo_count_avg2', 'board_female', 'at', 'Senv_str_num']
+Environment level: {'dynamism': 25, 'concent4': 24, 'scarcity': 21}
+Financial performance: {'slack': 10, 'leverage2': 35, 'roa_t3': 32, 'roe_t3': 27, 'ros_t3': 23, 'mva_t3': 11, 'mean_trt': 18, 'tobin_q_nomissing': 37, 'f_decline': 56, 'at': 8, 'sale': 4}
+Corporarte strategy: {'dt': 22, 'aqc_assets': 41, 'value_of_transaction_tot': 50, 'count_tot_new': 53, 'valueDivided_at': 49, 'valueDivided_sale': 48, 'dr': 31, 'du': 45, 'spinoff_tot': 63}
+Social performance: {'Senv_con_num': 34, 'Scom_con_num': 36, 'Shum_con_num': 5, 'Semp_con_num': 33, 'Sdiv_con_num': 44, 'Spro_con_num': 20, 'Scgov_con_num': 26, 'Senv_str_num': 9, 'Scom_str_num': 15, 'Shum_str_num': 17, 'Semp_str_num': 14, 'Sdiv_str_num': 1, 'Spro_str_num': 30, 'Scgov_str_num': 12, 'Scsp7_con': 39, 'Scsp7_str': 2, 'Scsp6_con': 40, 'Scsp6_str': 3, 'Ssocial_str5': 0, 'Ssocial_con5': 42}
+other frim level: {'sic': 29}
+Governance: {'instown_perc': 16, 'bd_ind': 28, 'nActivism_concerns': 69, 'nActivism_control': 61, 'nActivism_discussion': 64, 'nActivism_dispute': 68, 'nActivism': 62, 'nActivism_Exdiscussion': 67, 'envtprop2': 51, 'socprop2': 52, 'sriprop2': 55, 'all_activism': 59, 'both_activism': 66, 'board_female': 7, 'sum_active': 60}
+CEO: {'Wshrown_pct': 13, 'duality': 47, 'suc_out': 65, 'suc_est': 58, 'CEO_gender': 54, 'exe_exp10': 43, 'ceo_exp10': 46, 'QA_promo_count_avg2': 6, 'QA_preve_count_avg2': 19, 'CEOtenure_position': 38, 'suc_in': 57}
+{'Social performance': 0.4732005215663183, 'Financial performance': 0.07099435970183215, 'Environment level': 0.039029401835222556, 'other frim level': 0.028602484910937843, 'CEO': 0.02610202427632731, 'Governance': 0.014207988419451452, 'Corporarte strategy': 0.012853823053143039}
+{'Social performance': 6.656015074341234, 'Financial performance': 0.3333036154865303, 'CEO': 0.1147071220373915, 'Governance': 0.10627903724422208, 'Environment level': 0.04217021639923453, 'Corporarte strategy': 0.04184582953039904, 'other frim level': 0.028602484910937843}
+csp6_con1
+tr_mse: 0.273, ts_mse: 1.059
+top 10 important features (descending):
+['Scsp6_con', 'Shum_con_num', 'sale', 'Shum_str_num', 'Scom_con_num', 'Scsp7_con', 'QA_promo_count_avg2', 'Senv_con_num', 'sic', 'dr']
+Environment level: {'dynamism': 19, 'concent4': 25, 'scarcity': 12}
+Financial performance: {'slack': 20, 'leverage2': 22, 'roa_t3': 34, 'roe_t3': 29, 'ros_t3': 31, 'mva_t3': 24, 'mean_trt': 11, 'tobin_q_nomissing': 23, 'f_decline': 55, 'at': 10, 'sale': 2}
+Corporarte strategy: {'dt': 17, 'aqc_assets': 40, 'value_of_transaction_tot': 48, 'count_tot_new': 50, 'valueDivided_at': 52, 'valueDivided_sale': 51, 'dr': 9, 'du': 13, 'spinoff_tot': 61}
+Social performance: {'Senv_con_num': 7, 'Scom_con_num': 4, 'Shum_con_num': 1, 'Semp_con_num': 18, 'Sdiv_con_num': 16, 'Spro_con_num': 30, 'Scgov_con_num': 41, 'Senv_str_num': 44, 'Scom_str_num': 35, 'Shum_str_num': 3, 'Semp_str_num': 36, 'Sdiv_str_num': 33, 'Spro_str_num': 32, 'Scgov_str_num': 42, 'Scsp7_con': 5, 'Scsp7_str': 43, 'Scsp6_con': 0, 'Scsp6_str': 45, 'Ssocial_str5': 46, 'Ssocial_con5': 15}
+other frim level: {'sic': 8}
+Governance: {'instown_perc': 14, 'bd_ind': 28, 'nActivism_concerns': 67, 'nActivism_control': 64, 'nActivism_discussion': 65, 'nActivism_dispute': 69, 'nActivism': 63, 'nActivism_Exdiscussion': 62, 'envtprop2': 54, 'socprop2': 47, 'sriprop2': 49, 'all_activism': 56, 'both_activism': 68, 'board_female': 37, 'sum_active': 60}
+CEO: {'Wshrown_pct': 21, 'duality': 53, 'suc_out': 58, 'suc_est': 57, 'CEO_gender': 66, 'exe_exp10': 38, 'ceo_exp10': 39, 'QA_promo_count_avg2': 6, 'QA_preve_count_avg2': 26, 'CEOtenure_position': 27, 'suc_in': 59}
+{'Social performance': 0.3392655128809068, 'other frim level': 0.04331416752539381, 'Financial performance': 0.034505970852348015, 'Environment level': 0.022147145591049605, 'CEO': 0.014804179703705685, 'Corporarte strategy': 0.012256143088473429, 'Governance': 0.004147899111830814}
+{'Social performance': 5.861476587663771, 'Financial performance': 0.2045370528485205, 'CEO': 0.09069660827322246, 'other frim level': 0.04331416752539381, 'Corporarte strategy': 0.03762912704254381, 'Environment level': 0.02778173119387607, 'Governance': 0.02694337700574123}
+csp6_str_nohuman1
+tr_mse: 0.588, ts_mse: 1.961
+top 10 important features (descending):
+['Ssocial_str5', 'Scsp7_str', 'Sdiv_str_num', 'Scsp6_str', 'sale', 'Shum_str_num', 'Senv_str_num', 'board_female', 'at', 'slack']
+Environment level: {'dynamism': 22, 'concent4': 25, 'scarcity': 26}
+Financial performance: {'slack': 9, 'leverage2': 36, 'roa_t3': 38, 'roe_t3': 32, 'ros_t3': 28, 'mva_t3': 13, 'mean_trt': 24, 'tobin_q_nomissing': 34, 'f_decline': 52, 'at': 8, 'sale': 4}
+Corporarte strategy: {'dt': 20, 'aqc_assets': 42, 'value_of_transaction_tot': 48, 'count_tot_new': 51, 'valueDivided_at': 47, 'valueDivided_sale': 49, 'dr': 29, 'du': 45, 'spinoff_tot': 67}
+Social performance: {'Senv_con_num': 30, 'Scom_con_num': 21, 'Shum_con_num': 19, 'Semp_con_num': 35, 'Sdiv_con_num': 37, 'Spro_con_num': 14, 'Scgov_con_num': 40, 'Senv_str_num': 6, 'Scom_str_num': 18, 'Shum_str_num': 5, 'Semp_str_num': 12, 'Sdiv_str_num': 2, 'Spro_str_num': 17, 'Scgov_str_num': 11, 'Scsp7_con': 39, 'Scsp7_str': 1, 'Scsp6_con': 41, 'Scsp6_str': 3, 'Ssocial_str5': 0, 'Ssocial_con5': 43}
+other frim level: {'sic': 33}
+Governance: {'instown_perc': 10, 'bd_ind': 27, 'nActivism_concerns': 68, 'nActivism_control': 62, 'nActivism_discussion': 63, 'nActivism_dispute': 69, 'nActivism': 64, 'nActivism_Exdiscussion': 61, 'envtprop2': 54, 'socprop2': 53, 'sriprop2': 58, 'all_activism': 59, 'both_activism': 66, 'board_female': 7, 'sum_active': 65}
+CEO: {'Wshrown_pct': 16, 'duality': 50, 'suc_out': 60, 'suc_est': 56, 'CEO_gender': 57, 'exe_exp10': 46, 'ceo_exp10': 44, 'QA_promo_count_avg2': 15, 'QA_preve_count_avg2': 23, 'CEOtenure_position': 31, 'suc_in': 55}
+{'Social performance': 0.5023371979251978, 'Financial performance': 0.06919395403668131, 'Environment level': 0.042490565110565114, 'other frim level': 0.03122073983073983, 'CEO': 0.02226434963889511, 'Governance': 0.016761623077623085, 'Corporarte strategy': 0.014897233293899966}
+{'Social performance': 6.2360401419601414, 'Financial performance': 0.28659787059787056, 'Governance': 0.11963902538902534, 'CEO': 0.06559773682773684, 'Corporarte strategy': 0.04919219492219491, 'Environment level': 0.04476730821730821, 'other frim level': 0.03122073983073983}
+csp6_con_nohuman1
+tr_mse: 0.323, ts_mse: 1.515
+top 10 important features (descending):
+['Scsp7_con', 'Shum_con_num', 'sale', 'Scom_con_num', 'Senv_con_num', 'dr', 'Ssocial_con5', 'at', 'Shum_str_num', 'Spro_con_num']
+Environment level: {'dynamism': 26, 'concent4': 22, 'scarcity': 18}
+Financial performance: {'slack': 17, 'leverage2': 20, 'roa_t3': 39, 'roe_t3': 31, 'ros_t3': 37, 'mva_t3': 21, 'mean_trt': 12, 'tobin_q_nomissing': 35, 'f_decline': 53, 'at': 7, 'sale': 2}
+Corporarte strategy: {'dt': 19, 'aqc_assets': 29, 'value_of_transaction_tot': 49, 'count_tot_new': 47, 'valueDivided_at': 50, 'valueDivided_sale': 48, 'dr': 5, 'du': 25, 'spinoff_tot': 64}
+Social performance: {'Senv_con_num': 4, 'Scom_con_num': 3, 'Shum_con_num': 1, 'Semp_con_num': 15, 'Sdiv_con_num': 23, 'Spro_con_num': 9, 'Scgov_con_num': 16, 'Senv_str_num': 28, 'Scom_str_num': 33, 'Shum_str_num': 8, 'Semp_str_num': 44, 'Sdiv_str_num': 34, 'Spro_str_num': 36, 'Scgov_str_num': 38, 'Scsp7_con': 0, 'Scsp7_str': 40, 'Scsp6_con': 11, 'Scsp6_str': 41, 'Ssocial_str5': 43, 'Ssocial_con5': 6}
+other frim level: {'sic': 14}
+Governance: {'instown_perc': 13, 'bd_ind': 32, 'nActivism_concerns': 68, 'nActivism_control': 69, 'nActivism_discussion': 65, 'nActivism_dispute': 67, 'nActivism': 63, 'nActivism_Exdiscussion': 66, 'envtprop2': 57, 'socprop2': 51, 'sriprop2': 54, 'all_activism': 55, 'both_activism': 61, 'board_female': 42, 'sum_active': 59}
+CEO: {'Wshrown_pct': 24, 'duality': 52, 'suc_out': 60, 'suc_est': 58, 'CEO_gender': 62, 'exe_exp10': 45, 'ceo_exp10': 46, 'QA_promo_count_avg2': 10, 'QA_preve_count_avg2': 27, 'CEOtenure_position': 30, 'suc_in': 56}
+{'Social performance': 0.3752353059497816, 'Financial performance': 0.04972405691742751, 'other frim level': 0.030272631004366744, 'Environment level': 0.02270198689956329, 'Corporarte strategy': 0.020287832362930573, 'CEO': 0.012802129069075019, 'Governance': 0.00462664756186314}
+{'Social performance': 5.824850908842794, 'Financial performance': 0.2954178766375545, 'Corporarte strategy': 0.10154761462882086, 'CEO': 0.06563393831877724, 'Governance': 0.03691311135371174, 'other frim level': 0.030272631004366744, 'Environment level': 0.026130862445414803}
+Scsp7_str1
+tr_mse: 1.823, ts_mse: 6.502
+top 10 important features (descending):
+['Scsp7_str', 'Scsp6_str', 'Shum_str_num', 'sale', 'Ssocial_str5', 'Scom_con_num', 'Scom_str_num', 'Scgov_con_num', 'Sdiv_str_num', 'slack']
+Environment level: {'dynamism': 19, 'concent4': 17, 'scarcity': 27}
+Financial performance: {'slack': 9, 'leverage2': 35, 'roa_t3': 32, 'roe_t3': 39, 'ros_t3': 29, 'mva_t3': 10, 'mean_trt': 15, 'tobin_q_nomissing': 23, 'f_decline': 52, 'at': 16, 'sale': 3}
+Corporarte strategy: {'dt': 25, 'aqc_assets': 44, 'value_of_transaction_tot': 51, 'count_tot_new': 50, 'valueDivided_at': 53, 'valueDivided_sale': 55, 'dr': 12, 'du': 20, 'spinoff_tot': 62}
+Social performance: {'Senv_con_num': 33, 'Scom_con_num': 5, 'Shum_con_num': 11, 'Semp_con_num': 41, 'Sdiv_con_num': 43, 'Spro_con_num': 13, 'Scgov_con_num': 7, 'Senv_str_num': 24, 'Scom_str_num': 6, 'Shum_str_num': 2, 'Semp_str_num': 31, 'Sdiv_str_num': 8, 'Spro_str_num': 30, 'Scgov_str_num': 40, 'Scsp7_con': 26, 'Scsp7_str': 0, 'Scsp6_con': 42, 'Scsp6_str': 1, 'Ssocial_str5': 4, 'Ssocial_con5': 37}
+other frim level: {'sic': 38}
+Governance: {'instown_perc': 22, 'bd_ind': 34, 'nActivism_concerns': 67, 'nActivism_control': 65, 'nActivism_discussion': 63, 'nActivism_dispute': 68, 'nActivism': 64, 'nActivism_Exdiscussion': 66, 'envtprop2': 54, 'socprop2': 48, 'sriprop2': 45, 'all_activism': 57, 'both_activism': 69, 'board_female': 18, 'sum_active': 60}
+CEO: {'Wshrown_pct': 21, 'duality': 49, 'suc_out': 61, 'suc_est': 56, 'CEO_gender': 58, 'exe_exp10': 47, 'ceo_exp10': 46, 'QA_promo_count_avg2': 14, 'QA_preve_count_avg2': 36, 'CEOtenure_position': 28, 'suc_in': 59}
+{'Social performance': 2.346135753456336, 'Financial performance': 0.2039557970409297, 'Environment level': 0.1611370220895117, 'other frim level': 0.08662473569885129, 'Corporarte strategy': 0.07137579547152503, 'CEO': 0.06380478082005948, 'Governance': 0.03458378661611255}
+{'Social performance': 41.29827246693257, 'Financial performance': 0.7393366076871093, 'Corporarte strategy': 0.23379155217257858, 'CEO': 0.2189925584594456, 'Environment level': 0.18308863714350804, 'Governance': 0.18138015364991986, 'other frim level': 0.08662473569885129}
+Scsp7_con1
+tr_mse: 1.901, ts_mse: 6.896
+top 10 important features (descending):
+['Scsp7_con', 'Scsp6_con', 'mva_t3', 'sale', 'sic', 'at', 'Scom_con_num', 'Spro_str_num', 'Shum_con_num', 'dt']
+Environment level: {'dynamism': 22, 'concent4': 19, 'scarcity': 17}
+Financial performance: {'slack': 10, 'leverage2': 27, 'roa_t3': 34, 'roe_t3': 33, 'ros_t3': 26, 'mva_t3': 2, 'mean_trt': 13, 'tobin_q_nomissing': 35, 'f_decline': 58, 'at': 5, 'sale': 3}
+Corporarte strategy: {'dt': 9, 'aqc_assets': 25, 'value_of_transaction_tot': 28, 'count_tot_new': 53, 'valueDivided_at': 51, 'valueDivided_sale': 50, 'dr': 20, 'du': 37, 'spinoff_tot': 66}
+Social performance: {'Senv_con_num': 18, 'Scom_con_num': 6, 'Shum_con_num': 8, 'Semp_con_num': 29, 'Sdiv_con_num': 32, 'Spro_con_num': 14, 'Scgov_con_num': 23, 'Senv_str_num': 31, 'Scom_str_num': 36, 'Shum_str_num': 11, 'Semp_str_num': 39, 'Sdiv_str_num': 41, 'Spro_str_num': 7, 'Scgov_str_num': 38, 'Scsp7_con': 0, 'Scsp7_str': 42, 'Scsp6_con': 1, 'Scsp6_str': 44, 'Ssocial_str5': 43, 'Ssocial_con5': 12}
+other frim level: {'sic': 4}
+Governance: {'instown_perc': 15, 'bd_ind': 30, 'nActivism_concerns': 68, 'nActivism_control': 65, 'nActivism_discussion': 63, 'nActivism_dispute': 67, 'nActivism': 64, 'nActivism_Exdiscussion': 69, 'envtprop2': 56, 'socprop2': 46, 'sriprop2': 54, 'all_activism': 57, 'both_activism': 49, 'board_female': 48, 'sum_active': 61}
+CEO: {'Wshrown_pct': 21, 'duality': 55, 'suc_out': 62, 'suc_est': 60, 'CEO_gender': 52, 'exe_exp10': 45, 'ceo_exp10': 47, 'QA_promo_count_avg2': 16, 'QA_preve_count_avg2': 24, 'CEOtenure_position': 40, 'suc_in': 59}
+{'Social performance': 1.6407129867400994, 'Financial performance': 0.34471477041788634, 'other frim level': 0.31789829090652566, 'Environment level': 0.14241386157361566, 'Corporarte strategy': 0.07984203693781405, 'CEO': 0.05517643066664823, 'Governance': 0.028165315932101496}
+{'Social performance': 28.754956622099133, 'Financial performance': 1.3113672274514143, 'other frim level': 0.31789829090652566, 'Corporarte strategy': 0.2563268967405697, 'Governance': 0.19582574857399368, 'CEO': 0.1903193489260781, 'Environment level': 0.16904929416919243}
+Scsp6_str_nohuman1
+tr_mse: 1.485, ts_mse: 5.730
+top 10 important features (descending):
+['Scsp7_str', 'Shum_str_num', 'Scsp6_str', 'sale', 'Ssocial_str5', 'Shum_con_num', 'Scom_con_num', 'Scom_str_num', 'slack', 'Sdiv_str_num']
+Environment level: {'dynamism': 23, 'concent4': 19, 'scarcity': 29}
+Financial performance: {'slack': 8, 'leverage2': 26, 'roa_t3': 43, 'roe_t3': 34, 'ros_t3': 31, 'mva_t3': 13, 'mean_trt': 15, 'tobin_q_nomissing': 42, 'f_decline': 54, 'at': 12, 'sale': 3}
+Corporarte strategy: {'dt': 32, 'aqc_assets': 39, 'value_of_transaction_tot': 52, 'count_tot_new': 51, 'valueDivided_at': 50, 'valueDivided_sale': 48, 'dr': 27, 'du': 10, 'spinoff_tot': 65}
+Social performance: {'Senv_con_num': 24, 'Scom_con_num': 6, 'Shum_con_num': 5, 'Semp_con_num': 37, 'Sdiv_con_num': 35, 'Spro_con_num': 18, 'Scgov_con_num': 20, 'Senv_str_num': 21, 'Scom_str_num': 7, 'Shum_str_num': 1, 'Semp_str_num': 16, 'Sdiv_str_num': 9, 'Spro_str_num': 28, 'Scgov_str_num': 30, 'Scsp7_con': 36, 'Scsp7_str': 0, 'Scsp6_con': 40, 'Scsp6_str': 2, 'Ssocial_str5': 4, 'Ssocial_con5': 44}
+other frim level: {'sic': 41}
+Governance: {'instown_perc': 14, 'bd_ind': 17, 'nActivism_concerns': 68, 'nActivism_control': 66, 'nActivism_discussion': 62, 'nActivism_dispute': 69, 'nActivism': 64, 'nActivism_Exdiscussion': 61, 'envtprop2': 55, 'socprop2': 47, 'sriprop2': 49, 'all_activism': 57, 'both_activism': 67, 'board_female': 11, 'sum_active': 60}
+CEO: {'Wshrown_pct': 25, 'duality': 53, 'suc_out': 63, 'suc_est': 58, 'CEO_gender': 59, 'exe_exp10': 46, 'ceo_exp10': 45, 'QA_promo_count_avg2': 22, 'QA_preve_count_avg2': 33, 'CEOtenure_position': 38, 'suc_in': 56}
+{'Social performance': 1.9324566564070558, 'Financial performance': 0.17099715635304147, 'Environment level': 0.11574358252198857, 'other frim level': 0.0659046317917392, 'Corporarte strategy': 0.05988077160688199, 'CEO': 0.04493319359628495, 'Governance': 0.039390542273865285}
+{'Social performance': 32.25428345469795, 'Financial performance': 0.6948663104679473, 'Corporarte strategy': 0.2139122097463096, 'Governance': 0.21102716150389716, 'Environment level': 0.13182564158431792, 'CEO': 0.12148316165731013, 'other frim level': 0.0659046317917392}
+Scsp6_con_nohuman1
+tr_mse: 1.628, ts_mse: 5.673
+top 10 important features (descending):
+['Scsp7_con', 'Shum_con_num', 'Scsp6_con', 'sale', 'at', 'Senv_con_num', 'slack', 'Scom_con_num', 'mva_t3', 'sic']
+Environment level: {'dynamism': 20, 'concent4': 17, 'scarcity': 18}
+Financial performance: {'slack': 6, 'leverage2': 27, 'roa_t3': 36, 'roe_t3': 14, 'ros_t3': 32, 'mva_t3': 8, 'mean_trt': 16, 'tobin_q_nomissing': 31, 'f_decline': 55, 'at': 4, 'sale': 3}
+Corporarte strategy: {'dt': 13, 'aqc_assets': 44, 'value_of_transaction_tot': 47, 'count_tot_new': 48, 'valueDivided_at': 50, 'valueDivided_sale': 51, 'dr': 23, 'du': 43, 'spinoff_tot': 66}
+Social performance: {'Senv_con_num': 5, 'Scom_con_num': 7, 'Shum_con_num': 1, 'Semp_con_num': 25, 'Sdiv_con_num': 22, 'Spro_con_num': 10, 'Scgov_con_num': 28, 'Senv_str_num': 34, 'Scom_str_num': 40, 'Shum_str_num': 37, 'Semp_str_num': 29, 'Sdiv_str_num': 35, 'Spro_str_num': 26, 'Scgov_str_num': 33, 'Scsp7_con': 0, 'Scsp7_str': 41, 'Scsp6_con': 2, 'Scsp6_str': 46, 'Ssocial_str5': 42, 'Ssocial_con5': 24}
+other frim level: {'sic': 9}
+Governance: {'instown_perc': 12, 'bd_ind': 19, 'nActivism_concerns': 68, 'nActivism_control': 67, 'nActivism_discussion': 59, 'nActivism_dispute': 69, 'nActivism': 62, 'nActivism_Exdiscussion': 64, 'envtprop2': 54, 'socprop2': 49, 'sriprop2': 52, 'all_activism': 56, 'both_activism': 63, 'board_female': 45, 'sum_active': 57}
+CEO: {'Wshrown_pct': 15, 'duality': 53, 'suc_out': 61, 'suc_est': 58, 'CEO_gender': 65, 'exe_exp10': 39, 'ceo_exp10': 38, 'QA_promo_count_avg2': 11, 'QA_preve_count_avg2': 21, 'CEOtenure_position': 30, 'suc_in': 60}
+{'Social performance': 1.2179558486050122, 'Financial performance': 0.22767400864513718, 'other frim level': 0.17165205721250895, 'Environment level': 0.10482348894378161, 'CEO': 0.050904101973350185, 'Corporarte strategy': 0.04396867182820481, 'Governance': 0.022182521706711422}
+{'Social performance': 19.139234798143598, 'Financial performance': 1.0293429308560618, 'other frim level': 0.17165205721250895, 'CEO': 0.15319442074200929, 'Governance': 0.14064183860139776, 'Corporarte strategy': 0.13202134685666822, 'Environment level': 0.10933979076890674}
+Scsp6_str1
+tr_mse: 1.498, ts_mse: 6.304
+top 10 important features (descending):
+['Scsp6_str', 'Scsp7_str', 'Ssocial_str5', 'Shum_str_num', 'sale', 'Scom_con_num', 'Shum_con_num', 'Scom_str_num', 'at', 'QA_promo_count_avg2']
+Environment level: {'dynamism': 24, 'concent4': 10, 'scarcity': 23}
+Financial performance: {'slack': 13, 'leverage2': 29, 'roa_t3': 35, 'roe_t3': 41, 'ros_t3': 28, 'mva_t3': 17, 'mean_trt': 14, 'tobin_q_nomissing': 25, 'f_decline': 57, 'at': 8, 'sale': 4}
+Corporarte strategy: {'dt': 36, 'aqc_assets': 44, 'value_of_transaction_tot': 49, 'count_tot_new': 50, 'valueDivided_at': 54, 'valueDivided_sale': 51, 'dr': 20, 'du': 37, 'spinoff_tot': 65}
+Social performance: {'Senv_con_num': 15, 'Scom_con_num': 5, 'Shum_con_num': 6, 'Semp_con_num': 43, 'Sdiv_con_num': 42, 'Spro_con_num': 18, 'Scgov_con_num': 12, 'Senv_str_num': 22, 'Scom_str_num': 7, 'Shum_str_num': 3, 'Semp_str_num': 38, 'Sdiv_str_num': 16, 'Spro_str_num': 39, 'Scgov_str_num': 21, 'Scsp7_con': 32, 'Scsp7_str': 1, 'Scsp6_con': 40, 'Scsp6_str': 0, 'Ssocial_str5': 2, 'Ssocial_con5': 33}
+other frim level: {'sic': 31}
+Governance: {'instown_perc': 19, 'bd_ind': 26, 'nActivism_concerns': 67, 'nActivism_control': 69, 'nActivism_discussion': 62, 'nActivism_dispute': 68, 'nActivism': 63, 'nActivism_Exdiscussion': 64, 'envtprop2': 53, 'socprop2': 45, 'sriprop2': 52, 'all_activism': 60, 'both_activism': 66, 'board_female': 11, 'sum_active': 61}
+CEO: {'Wshrown_pct': 27, 'duality': 48, 'suc_out': 58, 'suc_est': 59, 'CEO_gender': 55, 'exe_exp10': 47, 'ceo_exp10': 46, 'QA_promo_count_avg2': 9, 'QA_preve_count_avg2': 34, 'CEOtenure_position': 30, 'suc_in': 56}
+{'Social performance': 1.6271300524428178, 'Financial performance': 0.15996092104014084, 'Environment level': 0.13447635301522762, 'other frim level': 0.08130096753286961, 'CEO': 0.05205200763073891, 'Corporarte strategy': 0.04063782974167286, 'Governance': 0.03187814237370642}
+{'Social performance': 24.629599378747585, 'Financial performance': 0.6305651663594876, 'CEO': 0.20013794931366888, 'Environment level': 0.19439056550590159, 'Governance': 0.1858763474892567, 'Corporarte strategy': 0.11628516400869585, 'other frim level': 0.08130096753286961}
+Scsp6_con1
+tr_mse: 1.597, ts_mse: 7.521
+top 10 important features (descending):
+['Scsp6_con', 'sale', 'Scsp7_con', 'mva_t3', 'sic', 'at', 'Spro_str_num', 'Shum_con_num', 'Senv_con_num', 'Scom_con_num']
+Environment level: {'dynamism': 24, 'concent4': 17, 'scarcity': 10}
+Financial performance: {'slack': 15, 'leverage2': 16, 'roa_t3': 40, 'roe_t3': 26, 'ros_t3': 27, 'mva_t3': 3, 'mean_trt': 19, 'tobin_q_nomissing': 34, 'f_decline': 52, 'at': 5, 'sale': 1}
+Corporarte strategy: {'dt': 12, 'aqc_assets': 28, 'value_of_transaction_tot': 44, 'count_tot_new': 45, 'valueDivided_at': 50, 'valueDivided_sale': 57, 'dr': 30, 'du': 29, 'spinoff_tot': 69}
+Social performance: {'Senv_con_num': 8, 'Scom_con_num': 9, 'Shum_con_num': 7, 'Semp_con_num': 32, 'Sdiv_con_num': 35, 'Spro_con_num': 42, 'Scgov_con_num': 47, 'Senv_str_num': 31, 'Scom_str_num': 21, 'Shum_str_num': 14, 'Semp_str_num': 39, 'Sdiv_str_num': 36, 'Spro_str_num': 6, 'Scgov_str_num': 46, 'Scsp7_con': 2, 'Scsp7_str': 48, 'Scsp6_con': 0, 'Scsp6_str': 49, 'Ssocial_str5': 41, 'Ssocial_con5': 20}
+other frim level: {'sic': 4}
+Governance: {'instown_perc': 18, 'bd_ind': 23, 'nActivism_concerns': 67, 'nActivism_control': 64, 'nActivism_discussion': 59, 'nActivism_dispute': 68, 'nActivism': 63, 'nActivism_Exdiscussion': 66, 'envtprop2': 37, 'socprop2': 38, 'sriprop2': 55, 'all_activism': 60, 'both_activism': 54, 'board_female': 51, 'sum_active': 53}
+CEO: {'Wshrown_pct': 13, 'duality': 56, 'suc_out': 62, 'suc_est': 61, 'CEO_gender': 65, 'exe_exp10': 33, 'ceo_exp10': 43, 'QA_promo_count_avg2': 11, 'QA_preve_count_avg2': 22, 'CEOtenure_position': 25, 'suc_in': 58}
+{'Social performance': 1.5974740900139386, 'other frim level': 0.5105157576426297, 'Financial performance': 0.21308331286314353, 'Environment level': 0.1275909899957197, 'CEO': 0.05756676469058479, 'Corporarte strategy': 0.057298065512405766, 'Governance': 0.028453436710070685}
+{'Social performance': 29.472921739574012, 'Financial performance': 0.7812017172595975, 'other frim level': 0.5105157576426297, 'Environment level': 0.16415842135258316, 'CEO': 0.16394880484152335, 'Corporarte strategy': 0.15142974676390822, 'Governance': 0.12148911204532524}
+Ssocial_str51
+tr_mse: 1.154, ts_mse: 4.922
+top 10 important features (descending):
+['Ssocial_str5', 'Shum_str_num', 'sale', 'Scom_con_num', 'Scsp7_str', 'Shum_con_num', 'Scom_str_num', 'QA_promo_count_avg2', 'Scsp6_str', 'Scgov_con_num']
+Environment level: {'dynamism': 10, 'concent4': 18, 'scarcity': 22}
+Financial performance: {'slack': 11, 'leverage2': 38, 'roa_t3': 42, 'roe_t3': 41, 'ros_t3': 16, 'mva_t3': 14, 'mean_trt': 12, 'tobin_q_nomissing': 40, 'f_decline': 52, 'at': 20, 'sale': 2}
+Corporarte strategy: {'dt': 19, 'aqc_assets': 44, 'value_of_transaction_tot': 51, 'count_tot_new': 48, 'valueDivided_at': 53, 'valueDivided_sale': 49, 'dr': 17, 'du': 29, 'spinoff_tot': 69}
+Social performance: {'Senv_con_num': 15, 'Scom_con_num': 3, 'Shum_con_num': 5, 'Semp_con_num': 31, 'Sdiv_con_num': 43, 'Spro_con_num': 13, 'Scgov_con_num': 9, 'Senv_str_num': 26, 'Scom_str_num': 6, 'Shum_str_num': 1, 'Semp_str_num': 25, 'Sdiv_str_num': 27, 'Spro_str_num': 30, 'Scgov_str_num': 37, 'Scsp7_con': 33, 'Scsp7_str': 4, 'Scsp6_con': 39, 'Scsp6_str': 8, 'Ssocial_str5': 0, 'Ssocial_con5': 28}
+other frim level: {'sic': 35}
+Governance: {'instown_perc': 21, 'bd_ind': 36, 'nActivism_concerns': 65, 'nActivism_control': 64, 'nActivism_discussion': 56, 'nActivism_dispute': 68, 'nActivism': 63, 'nActivism_Exdiscussion': 66, 'envtprop2': 54, 'socprop2': 50, 'sriprop2': 55, 'all_activism': 57, 'both_activism': 67, 'board_female': 23, 'sum_active': 58}
+CEO: {'Wshrown_pct': 24, 'duality': 45, 'suc_out': 62, 'suc_est': 61, 'CEO_gender': 59, 'exe_exp10': 46, 'ceo_exp10': 47, 'QA_promo_count_avg2': 7, 'QA_preve_count_avg2': 34, 'CEOtenure_position': 32, 'suc_in': 60}
+{'Social performance': 1.815921007667935, 'Financial performance': 0.12460107387203291, 'Environment level': 0.12075724070911774, 'other frim level': 0.05914251086403603, 'CEO': 0.04314787735275756, 'Corporarte strategy': 0.03966506058109897, 'Governance': 0.018613892703767065}
+{'Social performance': 33.25341640347918, 'Financial performance': 0.5580271210153972, 'CEO': 0.181758785265341, 'Environment level': 0.16471241664259623, 'Corporarte strategy': 0.10421398785303948, 'Governance': 0.09474290648201564, 'other frim level': 0.05914251086403603}
+Ssocial_con51
+tr_mse: 1.260, ts_mse: 5.022
+top 10 important features (descending):
+['Ssocial_con5', 'sale', 'Scsp6_con', 'sic', 'Scsp7_con', 'mva_t3', 'Shum_con_num', 'Senv_con_num', 'scarcity', 'dt']
+Environment level: {'dynamism': 16, 'concent4': 26, 'scarcity': 8}
+Financial performance: {'slack': 19, 'leverage2': 25, 'roa_t3': 40, 'roe_t3': 34, 'ros_t3': 24, 'mva_t3': 5, 'mean_trt': 11, 'tobin_q_nomissing': 30, 'f_decline': 56, 'at': 10, 'sale': 1}
+Corporarte strategy: {'dt': 9, 'aqc_assets': 35, 'value_of_transaction_tot': 51, 'count_tot_new': 48, 'valueDivided_at': 53, 'valueDivided_sale': 54, 'dr': 33, 'du': 22, 'spinoff_tot': 64}
+Social performance: {'Senv_con_num': 7, 'Scom_con_num': 13, 'Shum_con_num': 6, 'Semp_con_num': 20, 'Sdiv_con_num': 36, 'Spro_con_num': 39, 'Scgov_con_num': 41, 'Senv_str_num': 38, 'Scom_str_num': 32, 'Shum_str_num': 15, 'Semp_str_num': 37, 'Sdiv_str_num': 31, 'Spro_str_num': 21, 'Scgov_str_num': 43, 'Scsp7_con': 4, 'Scsp7_str': 44, 'Scsp6_con': 2, 'Scsp6_str': 45, 'Ssocial_str5': 42, 'Ssocial_con5': 0}
+other frim level: {'sic': 3}
+Governance: {'instown_perc': 17, 'bd_ind': 29, 'nActivism_concerns': 69, 'nActivism_control': 68, 'nActivism_discussion': 58, 'nActivism_dispute': 67, 'nActivism': 65, 'nActivism_Exdiscussion': 66, 'envtprop2': 55, 'socprop2': 18, 'sriprop2': 52, 'all_activism': 59, 'both_activism': 50, 'board_female': 14, 'sum_active': 63}
+CEO: {'Wshrown_pct': 27, 'duality': 49, 'suc_out': 62, 'suc_est': 60, 'CEO_gender': 57, 'exe_exp10': 47, 'ceo_exp10': 46, 'QA_promo_count_avg2': 12, 'QA_preve_count_avg2': 23, 'CEOtenure_position': 28, 'suc_in': 61}
+{'Social performance': 1.078377323858677, 'other frim level': 0.4779887801639062, 'Financial performance': 0.3330216206252859, 'Environment level': 0.11479024492289942, 'Corporarte strategy': 0.04814776251256076, 'CEO': 0.03872334672279403, 'Governance': 0.026003398755567435}
+{'Social performance': 19.39399450853098, 'Financial performance': 2.6405465937658996, 'other frim level': 0.4779887801639062, 'Environment level': 0.18010748885729547, 'Corporarte strategy': 0.17622847904300204, 'CEO': 0.11982858945972366, 'Governance': 0.09718726644181164}
+social_str_numYadj51
+tr_mse: 0.511, ts_mse: 1.780
+top 10 important features (descending):
+['Ssocial_str5', 'Sdiv_str_num', 'sale', 'Shum_str_num', 'Scsp7_str', 'Senv_str_num', 'slack', 'at', 'Scgov_str_num', 'mva_t3']
+Environment level: {'dynamism': 18, 'concent4': 20, 'scarcity': 27}
+Financial performance: {'slack': 6, 'leverage2': 35, 'roa_t3': 40, 'roe_t3': 38, 'ros_t3': 29, 'mva_t3': 9, 'mean_trt': 12, 'tobin_q_nomissing': 31, 'f_decline': 54, 'at': 7, 'sale': 2}
+Corporarte strategy: {'dt': 21, 'aqc_assets': 43, 'value_of_transaction_tot': 51, 'count_tot_new': 53, 'valueDivided_at': 48, 'valueDivided_sale': 49, 'dr': 16, 'du': 45, 'spinoff_tot': 62}
+Social performance: {'Senv_con_num': 17, 'Scom_con_num': 28, 'Shum_con_num': 23, 'Semp_con_num': 24, 'Sdiv_con_num': 41, 'Spro_con_num': 25, 'Scgov_con_num': 32, 'Senv_str_num': 5, 'Scom_str_num': 13, 'Shum_str_num': 3, 'Semp_str_num': 14, 'Sdiv_str_num': 1, 'Spro_str_num': 36, 'Scgov_str_num': 8, 'Scsp7_con': 37, 'Scsp7_str': 4, 'Scsp6_con': 42, 'Scsp6_str': 26, 'Ssocial_str5': 0, 'Ssocial_con5': 39}
+other frim level: {'sic': 30}
+Governance: {'instown_perc': 15, 'bd_ind': 33, 'nActivism_concerns': 68, 'nActivism_control': 64, 'nActivism_discussion': 63, 'nActivism_dispute': 69, 'nActivism': 65, 'nActivism_Exdiscussion': 67, 'envtprop2': 55, 'socprop2': 50, 'sriprop2': 52, 'all_activism': 59, 'both_activism': 66, 'board_female': 11, 'sum_active': 61}
+CEO: {'Wshrown_pct': 19, 'duality': 47, 'suc_out': 60, 'suc_est': 58, 'CEO_gender': 56, 'exe_exp10': 46, 'ceo_exp10': 44, 'QA_promo_count_avg2': 10, 'QA_preve_count_avg2': 22, 'CEOtenure_position': 34, 'suc_in': 57}
+{'Social performance': 0.5297465172061561, 'Financial performance': 0.06390107823332776, 'Environment level': 0.03637783586964773, 'other frim level': 0.028312328742564907, 'CEO': 0.01906656468870352, 'Corporarte strategy': 0.015515188656060188, 'Governance': 0.010797460952864733}
+{'Social performance': 8.844575224649898, 'Financial performance': 0.2801842113157334, 'CEO': 0.0714541774161274, 'Governance': 0.0687018426160727, 'Corporarte strategy': 0.055575990410246925, 'Environment level': 0.038981908822485936, 'other frim level': 0.028312328742564907}
+social_con_numYadj51
+tr_mse: 0.187, ts_mse: 0.791
+top 10 important features (descending):
+['Ssocial_con5', 'Senv_con_num', 'sale', 'Shum_con_num', 'Semp_con_num', 'Shum_str_num', 'Scsp6_con', 'dr', 'scarcity', 'Scsp7_con']
+Environment level: {'dynamism': 25, 'concent4': 24, 'scarcity': 8}
+Financial performance: {'slack': 22, 'leverage2': 28, 'roa_t3': 33, 'roe_t3': 31, 'ros_t3': 19, 'mva_t3': 14, 'mean_trt': 16, 'tobin_q_nomissing': 32, 'f_decline': 54, 'at': 21, 'sale': 2}
+Corporarte strategy: {'dt': 17, 'aqc_assets': 43, 'value_of_transaction_tot': 51, 'count_tot_new': 50, 'valueDivided_at': 52, 'valueDivided_sale': 53, 'dr': 7, 'du': 13, 'spinoff_tot': 60}
+Social performance: {'Senv_con_num': 1, 'Scom_con_num': 12, 'Shum_con_num': 3, 'Semp_con_num': 4, 'Sdiv_con_num': 15, 'Spro_con_num': 34, 'Scgov_con_num': 38, 'Senv_str_num': 42, 'Scom_str_num': 35, 'Shum_str_num': 5, 'Semp_str_num': 37, 'Sdiv_str_num': 20, 'Spro_str_num': 40, 'Scgov_str_num': 36, 'Scsp7_con': 9, 'Scsp7_str': 45, 'Scsp6_con': 6, 'Scsp6_str': 41, 'Ssocial_str5': 44, 'Ssocial_con5': 0}
+other frim level: {'sic': 10}
+Governance: {'instown_perc': 18, 'bd_ind': 26, 'nActivism_concerns': 69, 'nActivism_control': 65, 'nActivism_discussion': 61, 'nActivism_dispute': 68, 'nActivism': 67, 'nActivism_Exdiscussion': 66, 'envtprop2': 57, 'socprop2': 39, 'sriprop2': 48, 'all_activism': 55, 'both_activism': 64, 'board_female': 27, 'sum_active': 63}
+CEO: {'Wshrown_pct': 23, 'duality': 49, 'suc_out': 58, 'suc_est': 56, 'CEO_gender': 62, 'exe_exp10': 47, 'ceo_exp10': 46, 'QA_promo_count_avg2': 11, 'QA_preve_count_avg2': 29, 'CEOtenure_position': 30, 'suc_in': 59}
+{'Social performance': 0.19235228483333539, 'other frim level': 0.02761320581491137, 'Financial performance': 0.024664989698535433, 'Environment level': 0.0184505179594735, 'Corporarte strategy': 0.010015882296758956, 'CEO': 0.006467620045524294, 'Governance': 0.0033723913697027343}
+{'Social performance': 3.1496178230219933, 'Financial performance': 0.1456548501943442, 'Corporarte strategy': 0.03433381077410506, 'Environment level': 0.03100164194883729, 'other frim level': 0.02761320581491137, 'CEO': 0.0267706325303405, 'Governance': 0.01572870423801994}
+csp6_str_numYadj1
+tr_mse: 0.562, ts_mse: 1.917
+top 10 important features (descending):
+['Ssocial_str5', 'Scsp7_str', 'Sdiv_str_num', 'Scsp6_str', 'sale', 'Shum_str_num', 'at', 'board_female', 'instown_perc', 'Senv_str_num']
+Environment level: {'dynamism': 20, 'concent4': 27, 'scarcity': 25}
+Financial performance: {'slack': 12, 'leverage2': 28, 'roa_t3': 39, 'roe_t3': 33, 'ros_t3': 30, 'mva_t3': 10, 'mean_trt': 17, 'tobin_q_nomissing': 37, 'f_decline': 54, 'at': 6, 'sale': 4}
+Corporarte strategy: {'dt': 21, 'aqc_assets': 46, 'value_of_transaction_tot': 50, 'count_tot_new': 53, 'valueDivided_at': 51, 'valueDivided_sale': 49, 'dr': 22, 'du': 42, 'spinoff_tot': 65}
+Social performance: {'Senv_con_num': 29, 'Scom_con_num': 23, 'Shum_con_num': 18, 'Semp_con_num': 38, 'Sdiv_con_num': 41, 'Spro_con_num': 14, 'Scgov_con_num': 35, 'Senv_str_num': 9, 'Scom_str_num': 13, 'Shum_str_num': 5, 'Semp_str_num': 15, 'Sdiv_str_num': 2, 'Spro_str_num': 24, 'Scgov_str_num': 11, 'Scsp7_con': 36, 'Scsp7_str': 1, 'Scsp6_con': 40, 'Scsp6_str': 3, 'Ssocial_str5': 0, 'Ssocial_con5': 43}
+other frim level: {'sic': 31}
+Governance: {'instown_perc': 8, 'bd_ind': 34, 'nActivism_concerns': 68, 'nActivism_control': 61, 'nActivism_discussion': 64, 'nActivism_dispute': 69, 'nActivism': 62, 'nActivism_Exdiscussion': 63, 'envtprop2': 52, 'socprop2': 48, 'sriprop2': 57, 'all_activism': 60, 'both_activism': 66, 'board_female': 7, 'sum_active': 59}
+CEO: {'Wshrown_pct': 19, 'duality': 47, 'suc_out': 67, 'suc_est': 55, 'CEO_gender': 58, 'exe_exp10': 45, 'ceo_exp10': 44, 'QA_promo_count_avg2': 16, 'QA_preve_count_avg2': 26, 'CEOtenure_position': 32, 'suc_in': 56}
+{'Social performance': 0.44793567587333677, 'Financial performance': 0.061791250618586945, 'Environment level': 0.03648720795101918, 'other frim level': 0.02819386941397779, 'CEO': 0.018890915141607886, 'Governance': 0.014429649169337398, 'Corporarte strategy': 0.014015325438051559}
+{'Social performance': 6.072796416825459, 'Financial performance': 0.24854847381425432, 'Governance': 0.0893332682376671, 'CEO': 0.05805287174638905, 'Environment level': 0.043336724995802656, 'Corporarte strategy': 0.04229464670931695, 'other frim level': 0.02819386941397779}
+csp6_con_numYadj1
+tr_mse: 0.255, ts_mse: 1.017
+top 10 important features (descending):
+['Scsp6_con', 'Shum_con_num', 'sale', 'Senv_con_num', 'dr', 'Scom_con_num', 'QA_promo_count_avg2', 'Scsp7_con', 'Shum_str_num', 'sic']
+Environment level: {'dynamism': 23, 'concent4': 28, 'scarcity': 10}
+Financial performance: {'slack': 20, 'leverage2': 19, 'roa_t3': 37, 'roe_t3': 29, 'ros_t3': 31, 'mva_t3': 17, 'mean_trt': 13, 'tobin_q_nomissing': 30, 'f_decline': 54, 'at': 18, 'sale': 2}
+Corporarte strategy: {'dt': 21, 'aqc_assets': 39, 'value_of_transaction_tot': 49, 'count_tot_new': 52, 'valueDivided_at': 53, 'valueDivided_sale': 51, 'dr': 4, 'du': 22, 'spinoff_tot': 66}
+Social performance: {'Senv_con_num': 3, 'Scom_con_num': 5, 'Shum_con_num': 1, 'Semp_con_num': 12, 'Sdiv_con_num': 11, 'Spro_con_num': 25, 'Scgov_con_num': 32, 'Senv_str_num': 40, 'Scom_str_num': 35, 'Shum_str_num': 8, 'Semp_str_num': 36, 'Sdiv_str_num': 33, 'Spro_str_num': 44, 'Scgov_str_num': 42, 'Scsp7_con': 7, 'Scsp7_str': 46, 'Scsp6_con': 0, 'Scsp6_str': 45, 'Ssocial_str5': 47, 'Ssocial_con5': 16}
+other frim level: {'sic': 9}
+Governance: {'instown_perc': 14, 'bd_ind': 26, 'nActivism_concerns': 68, 'nActivism_control': 67, 'nActivism_discussion': 64, 'nActivism_dispute': 69, 'nActivism': 61, 'nActivism_Exdiscussion': 65, 'envtprop2': 60, 'socprop2': 43, 'sriprop2': 48, 'all_activism': 56, 'both_activism': 59, 'board_female': 41, 'sum_active': 58}
+CEO: {'Wshrown_pct': 15, 'duality': 50, 'suc_out': 62, 'suc_est': 57, 'CEO_gender': 63, 'exe_exp10': 38, 'ceo_exp10': 34, 'QA_promo_count_avg2': 6, 'QA_preve_count_avg2': 27, 'CEOtenure_position': 24, 'suc_in': 55}
+{'Social performance': 0.2967256580626634, 'other frim level': 0.03764474482453328, 'Financial performance': 0.030118571051505724, 'Corporarte strategy': 0.02072392607620414, 'Environment level': 0.020687164126311837, 'CEO': 0.012719693193415023, 'Governance': 0.003897148463094213}
+{'Social performance': 5.215098127916038, 'Financial performance': 0.18670073840952095, 'Corporarte strategy': 0.12853469562431274, 'CEO': 0.06446296339704213, 'other frim level': 0.03764474482453328, 'Environment level': 0.0313816631983939, 'Governance': 0.02179041492027234}
+social_str_num_Sicadj51
+tr_mse: 0.545, ts_mse: 2.360
+top 10 important features (descending):
+['Ssocial_str5', 'Sdiv_str_num', 'concent4', 'slack', 'Scsp7_str', 'mva_t3', 'sic', 'Shum_str_num', 'Semp_str_num', 'Scom_str_num']
+Environment level: {'dynamism': 10, 'concent4': 2, 'scarcity': 15}
+Financial performance: {'slack': 3, 'leverage2': 33, 'roa_t3': 37, 'roe_t3': 29, 'ros_t3': 14, 'mva_t3': 5, 'mean_trt': 21, 'tobin_q_nomissing': 30, 'f_decline': 53, 'at': 20, 'sale': 22}
+Corporarte strategy: {'dt': 24, 'aqc_assets': 45, 'value_of_transaction_tot': 51, 'count_tot_new': 54, 'valueDivided_at': 50, 'valueDivided_sale': 49, 'dr': 34, 'du': 35, 'spinoff_tot': 57}
+Social performance: {'Senv_con_num': 12, 'Scom_con_num': 27, 'Shum_con_num': 28, 'Semp_con_num': 26, 'Sdiv_con_num': 38, 'Spro_con_num': 16, 'Scgov_con_num': 31, 'Senv_str_num': 11, 'Scom_str_num': 9, 'Shum_str_num': 7, 'Semp_str_num': 8, 'Sdiv_str_num': 1, 'Spro_str_num': 46, 'Scgov_str_num': 36, 'Scsp7_con': 43, 'Scsp7_str': 4, 'Scsp6_con': 44, 'Scsp6_str': 17, 'Ssocial_str5': 0, 'Ssocial_con5': 39}
+other frim level: {'sic': 6}
+Governance: {'instown_perc': 18, 'bd_ind': 23, 'nActivism_concerns': 68, 'nActivism_control': 64, 'nActivism_discussion': 67, 'nActivism_dispute': 69, 'nActivism': 66, 'nActivism_Exdiscussion': 63, 'envtprop2': 55, 'socprop2': 48, 'sriprop2': 47, 'all_activism': 56, 'both_activism': 65, 'board_female': 40, 'sum_active': 60}
+CEO: {'Wshrown_pct': 19, 'duality': 52, 'suc_out': 61, 'suc_est': 59, 'CEO_gender': 62, 'exe_exp10': 41, 'ceo_exp10': 42, 'QA_promo_count_avg2': 13, 'QA_preve_count_avg2': 32, 'CEOtenure_position': 25, 'suc_in': 58}
+{'Social performance': 0.39602042825174294, 'Environment level': 0.1926158985061236, 'other frim level': 0.09365638176898332, 'Financial performance': 0.05742114869459136, 'CEO': 0.017695741237074795, 'Corporarte strategy': 0.012890180432331186, 'Governance': 0.007741596012019997}
+{'Social performance': 6.326703175267882, 'Environment level': 0.4697756410374822, 'Financial performance': 0.21596775421332862, 'other frim level': 0.09365638176898332, 'CEO': 0.04935934190151734, 'Governance': 0.041767421179437214, 'Corporarte strategy': 0.03879387289628644}
+social_con_num_Sicadj51
+tr_mse: 0.191, ts_mse: 0.799
+top 10 important features (descending):
+['Ssocial_con5', 'Scsp6_con', 'sale', 'Shum_con_num', 'concent4', 'Semp_con_num', 'sic', 'Scsp7_con', 'dr', 'instown_perc']
+Environment level: {'dynamism': 11, 'concent4': 4, 'scarcity': 13}
+Financial performance: {'slack': 16, 'leverage2': 18, 'roa_t3': 27, 'roe_t3': 35, 'ros_t3': 25, 'mva_t3': 24, 'mean_trt': 23, 'tobin_q_nomissing': 28, 'f_decline': 54, 'at': 17, 'sale': 2}
+Corporarte strategy: {'dt': 21, 'aqc_assets': 43, 'value_of_transaction_tot': 47, 'count_tot_new': 49, 'valueDivided_at': 52, 'valueDivided_sale': 50, 'dr': 8, 'du': 20, 'spinoff_tot': 60}
+Social performance: {'Senv_con_num': 12, 'Scom_con_num': 10, 'Shum_con_num': 3, 'Semp_con_num': 5, 'Sdiv_con_num': 29, 'Spro_con_num': 34, 'Scgov_con_num': 39, 'Senv_str_num': 36, 'Scom_str_num': 42, 'Shum_str_num': 30, 'Semp_str_num': 32, 'Sdiv_str_num': 33, 'Spro_str_num': 37, 'Scgov_str_num': 46, 'Scsp7_con': 7, 'Scsp7_str': 38, 'Scsp6_con': 1, 'Scsp6_str': 45, 'Ssocial_str5': 40, 'Ssocial_con5': 0}
+other frim level: {'sic': 6}
+Governance: {'instown_perc': 9, 'bd_ind': 26, 'nActivism_concerns': 67, 'nActivism_control': 68, 'nActivism_discussion': 66, 'nActivism_dispute': 69, 'nActivism': 64, 'nActivism_Exdiscussion': 63, 'envtprop2': 56, 'socprop2': 48, 'sriprop2': 53, 'all_activism': 55, 'both_activism': 65, 'board_female': 44, 'sum_active': 61}
+CEO: {'Wshrown_pct': 19, 'duality': 51, 'suc_out': 58, 'suc_est': 57, 'CEO_gender': 62, 'exe_exp10': 14, 'ceo_exp10': 22, 'QA_promo_count_avg2': 15, 'QA_preve_count_avg2': 41, 'CEOtenure_position': 31, 'suc_in': 59}
+{'Social performance': 0.09122302449183296, 'other frim level': 0.034566016322931284, 'Environment level': 0.03359764797017995, 'Financial performance': 0.018383912601894814, 'Corporarte strategy': 0.008908353095793338, 'CEO': 0.008700297809893539, 'Governance': 0.003890370426563131}
+{'Social performance': 1.412853473578306, 'Financial performance': 0.06985231466662292, 'Environment level': 0.04669663306979488, 'other frim level': 0.034566016322931284, 'Corporarte strategy': 0.031733028052443456, 'Governance': 0.03146575996388483, 'CEO': 0.022279838601345303}
+csp6_str_num_Sicadj1
+tr_mse: 0.609, ts_mse: 2.823
+top 10 important features (descending):
+['Ssocial_str5', 'Sdiv_str_num', 'concent4', 'Scsp6_str', 'Scsp7_str', 'slack', 'mva_t3', 'sic', 'Senv_con_num', 'dynamism']
+Environment level: {'dynamism': 9, 'concent4': 2, 'scarcity': 20}
+Financial performance: {'slack': 5, 'leverage2': 24, 'roa_t3': 35, 'roe_t3': 33, 'ros_t3': 18, 'mva_t3': 6, 'mean_trt': 21, 'tobin_q_nomissing': 30, 'f_decline': 54, 'at': 13, 'sale': 16}
+Corporarte strategy: {'dt': 19, 'aqc_assets': 40, 'value_of_transaction_tot': 48, 'count_tot_new': 53, 'valueDivided_at': 51, 'valueDivided_sale': 47, 'dr': 39, 'du': 44, 'spinoff_tot': 58}
+Social performance: {'Senv_con_num': 8, 'Scom_con_num': 31, 'Shum_con_num': 23, 'Semp_con_num': 26, 'Sdiv_con_num': 42, 'Spro_con_num': 34, 'Scgov_con_num': 36, 'Senv_str_num': 25, 'Scom_str_num': 11, 'Shum_str_num': 15, 'Semp_str_num': 10, 'Sdiv_str_num': 1, 'Spro_str_num': 32, 'Scgov_str_num': 38, 'Scsp7_con': 41, 'Scsp7_str': 4, 'Scsp6_con': 43, 'Scsp6_str': 3, 'Ssocial_str5': 0, 'Ssocial_con5': 37}
+other frim level: {'sic': 7}
+Governance: {'instown_perc': 12, 'bd_ind': 22, 'nActivism_concerns': 68, 'nActivism_control': 65, 'nActivism_discussion': 64, 'nActivism_dispute': 69, 'nActivism': 62, 'nActivism_Exdiscussion': 67, 'envtprop2': 55, 'socprop2': 50, 'sriprop2': 52, 'all_activism': 57, 'both_activism': 63, 'board_female': 29, 'sum_active': 61}
+CEO: {'Wshrown_pct': 14, 'duality': 49, 'suc_out': 66, 'suc_est': 59, 'CEO_gender': 60, 'exe_exp10': 46, 'ceo_exp10': 45, 'QA_promo_count_avg2': 17, 'QA_preve_count_avg2': 27, 'CEOtenure_position': 28, 'suc_in': 56}
+{'Social performance': 0.30414897594068135, 'Environment level': 0.20705004387741868, 'other frim level': 0.11009663886213024, 'Financial performance': 0.068269134452845, 'CEO': 0.017949801873306387, 'Corporarte strategy': 0.013354925356805984, 'Governance': 0.009125343735961801}
+{'Social performance': 4.173483728522619, 'Environment level': 0.5075914036765756, 'Financial performance': 0.2334801942662951, 'other frim level': 0.11009663886213024, 'Governance': 0.05710727466532939, 'CEO': 0.05103721585966716, 'Corporarte strategy': 0.042691058122996894}
+csp6_con_num_Sicadj1
+tr_mse: 0.287, ts_mse: 1.321
+top 10 important features (descending):
+['Scsp6_con', 'Scsp7_con', 'sale', 'concent4', 'Shum_con_num', 'Scom_con_num', 'dr', 'scarcity', 'Spro_con_num', 'at']
+Environment level: {'dynamism': 13, 'concent4': 3, 'scarcity': 7}
+Financial performance: {'slack': 12, 'leverage2': 18, 'roa_t3': 26, 'roe_t3': 32, 'ros_t3': 22, 'mva_t3': 19, 'mean_trt': 21, 'tobin_q_nomissing': 25, 'f_decline': 53, 'at': 9, 'sale': 2}
+Corporarte strategy: {'dt': 27, 'aqc_assets': 36, 'value_of_transaction_tot': 49, 'count_tot_new': 47, 'valueDivided_at': 48, 'valueDivided_sale': 51, 'dr': 6, 'du': 17, 'spinoff_tot': 60}
+Social performance: {'Senv_con_num': 14, 'Scom_con_num': 5, 'Shum_con_num': 4, 'Semp_con_num': 11, 'Sdiv_con_num': 24, 'Spro_con_num': 8, 'Scgov_con_num': 38, 'Senv_str_num': 39, 'Scom_str_num': 37, 'Shum_str_num': 29, 'Semp_str_num': 40, 'Sdiv_str_num': 34, 'Spro_str_num': 45, 'Scgov_str_num': 46, 'Scsp7_con': 1, 'Scsp7_str': 42, 'Scsp6_con': 0, 'Scsp6_str': 43, 'Ssocial_str5': 41, 'Ssocial_con5': 16}
+other frim level: {'sic': 10}
+Governance: {'instown_perc': 15, 'bd_ind': 28, 'nActivism_concerns': 66, 'nActivism_control': 68, 'nActivism_discussion': 62, 'nActivism_dispute': 69, 'nActivism': 63, 'nActivism_Exdiscussion': 65, 'envtprop2': 55, 'socprop2': 50, 'sriprop2': 54, 'all_activism': 56, 'both_activism': 61, 'board_female': 44, 'sum_active': 59}
+CEO: {'Wshrown_pct': 20, 'duality': 52, 'suc_out': 64, 'suc_est': 58, 'CEO_gender': 67, 'exe_exp10': 30, 'ceo_exp10': 31, 'QA_promo_count_avg2': 23, 'QA_preve_count_avg2': 33, 'CEOtenure_position': 35, 'suc_in': 57}
+{'Social performance': 0.11030468422849449, 'Environment level': 0.05455633535496099, 'other frim level': 0.04616010353819215, 'Financial performance': 0.03254864292651191, 'Corporarte strategy': 0.014448917144389499, 'CEO': 0.009573061759533853, 'Governance': 0.0042831931034704816}
+{'Social performance': 0.9630002855936205, 'Financial performance': 0.12548461013177586, 'Environment level': 0.07940407488265071, 'Corporarte strategy': 0.055211516529460394, 'other frim level': 0.04616010353819215, 'Governance': 0.030858822008014264, 'CEO': 0.02205366755185243}
+Finished in 1907 seconds.
